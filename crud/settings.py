@@ -28,7 +28,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['port-0-legendary-fortnight-e9btb72blgna3gns.sel3.cloudtype.app', 'localhost']
+ALLOWED_HOSTS = ['port-0-legendary-fortnight-e9btb72blgna3gns.sel3.cloudtype.app', 'localhost', '127.0.0.1']
 
 
 # Application definition
